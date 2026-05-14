@@ -27,6 +27,10 @@ public:
 
     void deliver_to_a(const json& res);
 
+    void on_a_disconnect(const std::shared_ptr<Base_Session>& session);
+
+    void on_b_disconnect(const std::shared_ptr<Base_Session>& session);
+
 private:
     void start_handshake();
 
@@ -36,4 +40,5 @@ private:
     std::shared_ptr<A_Session> a_session_;
     std::shared_ptr<B_Session> b_session_;
     std::vector<AccelPacket> to_deliver_b_;
+    std::vector<json> to_deliver_a_;
 };
