@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/build-check",
+  "command": "/usr/bin/c++ -DKVADRO_SSL=1 -I/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/include -O3 -DNDEBUG -o CMakeFiles/clientA.dir/src/clientA.cpp.o -c /mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/clientA.cpp",
+  "file": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/clientA.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/build-check",
+  "command": "/usr/bin/c++ -DKVADRO_SSL=1 -I/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/include -O3 -DNDEBUG -o CMakeFiles/server.dir/src/server.cpp.o -c /mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/server.cpp",
+  "file": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/server.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/build-check",
+  "command": "/usr/bin/c++ -DKVADRO_SSL=1 -I/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/include -O3 -DNDEBUG -o CMakeFiles/clientB.dir/src/clientB.cpp.o -c /mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/clientB.cpp",
+  "file": "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/src/clientB.cpp"
+}
+]

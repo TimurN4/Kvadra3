@@ -7,9 +7,6 @@
 #include <cmath>
 #include <boost/asio.hpp>
 
-// test 
-// test 2
-
 #include "../include/domain.hpp"
 #include "../include/json.hpp"
 

@@ -1,0 +1,7 @@
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/clientA.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/server.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/clientB.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/test_protocol.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/test.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/CMakeFiles/rebuild_cache.dir

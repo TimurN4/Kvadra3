@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/clientA.dir/src/clientA.cpp.o CMakeFiles/clientA.dir/src/client_settings.cpp.o -o clientA 

@@ -1,0 +1,19 @@
+Start testing: May 15 01:22 MSK
+----------------------------------------------------------
+1/1 Testing: protocol
+1/1 Test: protocol
+Command: "/mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b/test_protocol"
+Directory: /mnt/c/Users/Asus/SportProgC++/Yadro_Kvadro3/b
+"protocol" start time: May 15 01:22 MSK
+Output:
+----------------------------------------------------------
+test_protocol: OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"protocol" end time: May 15 01:22 MSK
+"protocol" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 15 01:22 MSK
